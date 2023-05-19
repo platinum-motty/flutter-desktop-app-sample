@@ -15,7 +15,7 @@
 
 - [第 4 章 コンテキストメニュー](https://github.com/platinum-motty/flutter-desktop-app-sample/tree/chp4-4 "chp4-4")
 
-- [第 4 章 タスクトレイ常駐アプリ](https://github.com/platinum-motty/flutter-desktop-app-sample/tree/chp4-5 "chp4-5")
+- [第 4 章 タスクトレイ常駐アプリ](https://github.com/platinum-motty/flutter-desktop-app-sample/tree/chp4-5 "chp4-5") <=
 
 ## License
 
