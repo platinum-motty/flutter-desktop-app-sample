@@ -11,7 +11,7 @@
 
 - [第 3 章 Zenn の記事リストビュアー](https://github.com/platinum-motty/flutter-desktop-app-sample/tree/chp3 "chp3")
 
-- [第 4 章 メニューバー](https://github.com/platinum-motty/flutter-desktop-app-sample/tree/chp4-3 "chp4-3")
+- [第 4 章 メニューバー](https://github.com/platinum-motty/flutter-desktop-app-sample/tree/chp4-3 "chp4-3") <=
 
 - [第 4 章 コンテキストメニュー](https://github.com/platinum-motty/flutter-desktop-app-sample/tree/chp4-4 "chp4-4")
 
