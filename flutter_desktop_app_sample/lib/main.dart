@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import './widgets/zenn_list_page.dart';
+import './widgets/menu_bar.dart';
 
 void main() {
   runApp(const MyApp());
@@ -11,12 +12,11 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Zenn RSS Reader',
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-        visualDensity: VisualDensity.adaptivePlatformDensity,
-      ),
-      home: const ZennListPage(),
-    );
+        title: 'Zenn RSS Reader',
+        theme: ThemeData(
+          primarySwatch: Colors.blue,
+          visualDensity: VisualDensity.adaptivePlatformDensity,
+        ),
+        home: const MyMenu(child: ZennListPage()));
   }
 }
