@@ -38,6 +38,7 @@ dependencies:
   http: ^0.13.6
   webfeed: ^0.7.0
   url_launcher: ^6.1.11
+  native_context_menu: ^0.2.2+5
 
 dev_dependencies:
   flutter_test:

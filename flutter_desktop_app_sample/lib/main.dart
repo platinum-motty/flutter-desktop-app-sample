@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import './widgets/zenn_list_page.dart';
+import './widgets/context_menu.dart';
 
 void main() {
   runApp(const MyApp());
@@ -16,7 +17,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: const ZennListPage(),
+      home: const ContextMenu(child: ZennListPage()),
     );
   }
 }
